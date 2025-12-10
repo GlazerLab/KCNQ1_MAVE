@@ -1,0 +1,34 @@
+Mutation,Position,numReps,DMS_Trafficking,AF647_norm_rep1,AF647_norm_rep2,AF647_norm,SD_trafficking,SE_trafficking,Reason,Mutation,DMS_Trafficking_Final,mutType
+R14D,14,2,1.44,186.6,80.9,133.8,37.3,26.4,ER retention,R14D,1.44,missense
+R14T,14,2,1.33,215.3,66.9,141.1,52.5,37.1,ER retention,R14T,1.33,missense
+R25E,25,2,1.4,176,274.1,225.1,34.7,24.5,ER retention,R25E,1.4,missense
+L38N,38,2,0.15,10.4,48.2,29.3,13.4,9.5,LEL,L38N,0.15,missense
+E39F,39,2,NA,0.7,-2.2,-0.8,1.1,0.8,LEL,E39F,NA,missense
+A49A,49,2,0.16,84.8,99.4,92.1,5.2,3.7,synon,A49A,0.9,synon
+P64P,64,2,0.19,105.3,84.9,95.1,7.2,5.1,synon,P64P,0.19,synon
+P81P,81,2,0.38,175.6,93.4,134.5,29.1,20.6,synon,P81P,0.38,synon
+H105H,105,2,0.09,91.5,55.5,73.5,12.7,9,synon,H105H,0.09,synon
+G119V,119,2,0.12,10.7,22.1,16.4,4,2.8,VUS,G119V,0.12,missense
+S143F,143,2,0.38,41.4,70.2,55.8,10.2,7.2,VUS,S143F,0.38,missense
+A223L,223,2,1.51,161.7,55.9,108.8,37.4,26.4,S4,A223L,1.51,missense
+R228A,228,2,1.52,234.1,49.9,142,65.1,46,S4,R228A,1.52,missense
+Q260K,260,2,NA,45.3,63.9,54.6,6.6,4.7,partialLOF,Q260K,0.69,missense
+L282P,282,2,0.1,-1.5,-3.4,-2.5,0.7,0.5,VUS,L282P,0.1,missense
+A344A,344,2,0.41,107.5,98.7,103.1,6.2,4.4,synon,A344A,0.41,synon
+A352T,352,2,0.57,33.2,32,32.6,0.4,0.3,partialLOF,A352T,0.54,missense
+L353P,353,2,0.07,-2.5,1.5,-0.5,1.4,1,VUS,L353P,0.08,missense
+S409R,409,2,0.41,43.1,38,40.6,1.8,1.3,partialLOF,S409R,0.41,missense
+K467A,467,2,1.24,79.4,175,127.2,33.8,23.9,Cytosol,K467A,1.24,missense
+K467R,467,2,1.19,265,249.7,257.4,5.4,3.8,Cytosol,K467R,1.2,missense
+E473I,473,2,0.09,0.1,2.2,1.2,0.8,0.6,Cytosol,E473I,0.09,missense
+V474V,474,2,0.32,157,105.4,131.2,18.2,12.9,synon,V474V,0.32,synon
+P477L,477,2,0.32,9.7,38.5,24.1,10.2,7.2,Cytosol,P477L,0.32,missense
+E487K,487,2,0.32,49.8,49.2,49.5,0.2,0.1,benign but low trafficking,E487K,0.35,missense
+L506V,506,2,0.82,65.5,72,68.8,2.3,1.6,partialLOF,L506V,0.82,missense
+I514T,514,2,0.24,8.9,30,19.5,7.5,5.3,VUS,I514T,0.24,missense
+N551Y,551,2,0.64,53.2,55.1,54.2,0.7,0.5,partialLOF,N551Y,0.66,missense
+P570L,570,2,0.32,21.9,57.5,39.7,12.6,8.9,VUS,P570L,0.32,missense
+S627S,627,2,0.39,162.5,100,131.3,22.1,15.6,synon,S627S,0.38,synon
+L659I,659,2,NA,78.1,332.2,205.2,89.9,63.6,PY,L659I,NA,missense
+Q664W,664,2,NA,167.1,426,296.6,91.6,64.8,PY,Q664W,NA,missense
+T666Y,666,2,0.03,-0.2,-0.4,-0.3,0.1,0.1,PY,T666Y,0.03,missense

@@ -1,0 +1,1381 @@
+mutation,clinvar_actual,clinvar,clinvar_gnomAD0004,controlFinal,controlFinal_missense,class,gnomad0004,gnomadFinal
+D446E,Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,blb,missense,NA,NA
+K393N,Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,blb,missense,blb,blb
+A62T,Likely benign,blb,blb,blb,blb,missense,NA,NA
+G643S,Benign,blb,blb,blb,blb,missense,blb,blb
+P408A,Benign/Likely benign,blb,blb,blb,blb,missense,blb,blb
+P448R,Benign,blb,blb,blb,blb,missense,blb,blb
+T153M,Likely benign,blb,blb,blb,blb,missense,blb,blb
+V172M,Benign,blb,blb,blb,blb,missense,blb,blb
+V207M,Likely benign,blb,blb,blb,blb,missense,blb,blb
+V417M,Likely benign,blb,blb,blb,blb,missense,NA,NA
+V418I,Likely benign,blb,blb,blb,blb,missense,NA,blb
+V648I,Benign/Likely benign,blb,blb,blb,blb,missense,blb,blb
+V648L,Benign,blb,blb,blb,blb,missense,NA,NA
+A226V,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+A283G,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+A300E,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+A300T,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+A344G,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+A344T,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+A370V,Conflicting classifications of pathogenicity,conflicting,blb,blb,blb,missense,blb,blb
+A399S,Conflicting classifications of pathogenicity,conflicting,conflicting,blb,blb,missense,NA,blb
+A486T,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+A525V,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+A590T,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+C122Y,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+C381Y,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+D301V,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+D446N,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+D459N,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+D611Y,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+E115K,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+E146G,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+E160K,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+E449K,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+E450K,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+F296S,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+F339L,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+F339Y,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+F351L,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+G168E,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+G186R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+G189E,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+G350V,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+G589S,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+G621S,Conflicting classifications of pathogenicity,conflicting,conflicting,blb,blb,missense,NA,blb
+G646S,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+H126L,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+H363N,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+I204M,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+I268S,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+I274V,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+I313F,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+I337F,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+I514T,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+I588F,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+K393M,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+K515N,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+K526E,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L134P,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L137F,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L187P,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L187R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L233P,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L236P,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L236R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L239P,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L262R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L266M,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L266R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L282P,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+L342H,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+N657S,Conflicting classifications of pathogenicity,conflicting,blb,blb,blb,missense,blb,blb
+P320R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+P369A,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+P369L,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+P400A,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+P447H,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+P535T,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+P570L,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+P7S,Conflicting classifications of pathogenicity,conflicting,conflicting,blb,blb,missense,NA,blb
+Q359P,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+Q367R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R192H,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R195W,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R293C,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R293H,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R380K,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R397W,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R451Q,Conflicting classifications of pathogenicity,conflicting,blb,blb,blb,missense,blb,blb
+R452L,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R452Q,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R452W,Conflicting classifications of pathogenicity,conflicting,blb,blb,blb,missense,blb,blb
+R518Q,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R519H,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R533Q,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R533W,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R562M,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R583C,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+R583H,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+S253C,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+S253P,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+S276F,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+S349P,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+S389F,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+S463T,Conflicting classifications of pathogenicity,conflicting,blb,blb,blb,missense,blb,blb
+T144A,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+T265N,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+T311I,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+T322K,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+T600M,Conflicting classifications of pathogenicity,conflicting,blb,blb,blb,missense,blb,blb
+T96R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+V185L,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+V215G,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+V215M,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+V576I,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+W176R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+W305L,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+W379R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,conflicting,missense,NA,NA
+F193L,not provided,missing,missing,missing,missing,missense,NA,NA
+A150G,not provided,missing,missing,missing,missing,missense,NA,NA
+A302T,not provided,missing,missing,missing,missing,missense,NA,NA
+A372D,not provided,missing,missing,missing,missing,missense,NA,NA
+D202H,not provided,missing,missing,missing,missing,missense,NA,NA
+D317Y,not provided,missing,missing,missing,missing,missense,NA,NA
+D428G,not provided,missing,missing,missing,missing,missense,NA,NA
+E160V,not provided,missing,missing,missing,missing,missense,NA,NA
+F127L,not provided,missing,missing,missing,missing,missense,NA,NA
+F275S,not provided,missing,missing,missing,missing,missense,NA,NA
+F335L,not provided,missing,missing,missing,missing,missense,NA,NA
+F351S,not provided,missing,missing,missing,missing,missense,NA,NA
+G119D,not provided,missing,missing,missing,missing,missense,NA,NA
+G272V,not provided,missing,missing,missing,missing,missense,NA,NA
+G306V,not provided,missing,missing,missing,missing,missense,NA,NA
+G314A,not provided,missing,missing,missing,missing,missense,NA,NA
+G314C,not provided,missing,missing,missing,missing,missense,NA,NA
+G316V,not provided,missing,missing,missing,missing,missense,NA,NA
+G57V,not provided,missing,missing,missing,missing,missense,NA,NA
+H105L,not provided,missing,missing,missing,missing,missense,NA,NA
+H258N,not provided,missing,missing,missing,missing,missense,NA,NA
+I204F,not provided,missing,missing,missing,missing,missense,NA,NA
+I313M,not provided,missing,missing,missing,missing,missense,NA,NA
+I517T,not provided,missing,missing,missing,missing,missense,NA,NA
+I567S,not provided,missing,missing,missing,missing,missense,NA,NA
+K183R,not provided,missing,missing,missing,missing,missense,NA,NA
+K569E,not provided,missing,missing,missing,missing,missense,NA,NA
+L191P,not provided,missing,missing,missing,missing,missense,NA,NA
+L250H,not provided,missing,missing,missing,missing,missense,NA,NA
+L602P,not provided,missing,missing,missing,missing,missense,NA,NA
+M1T,not provided,missing,missing,missing,missing,missense,NA,NA
+M1V,not provided,missing,missing,missing,missing,missense,NA,NA
+N365H,not provided,missing,missing,missing,missing,missense,NA,NA
+N586D,not provided,missing,missing,missing,missing,missense,NA,NA
+P320A,not provided,missing,missing,missing,missing,missense,NA,NA
+P343L,not provided,missing,missing,missing,missing,missense,NA,NA
+P343R,not provided,missing,missing,missing,missing,missense,NA,NA
+Q357H,not provided,missing,missing,missing,missing,missense,NA,NA
+R14C,not provided,missing,missing,missing,missing,missense,NA,NA
+S209F,not provided,missing,missing,missing,missing,missense,NA,NA
+S277P,not provided,missing,missing,missing,missing,missense,NA,NA
+S373P,not provided,missing,missing,missing,missing,missense,NA,NA
+S389P,not provided,missing,missing,missing,missing,missense,NA,NA
+S484T,not provided,missing,missing,missing,missing,missense,NA,NA
+S566P,not provided,missing,missing,missing,missing,missense,NA,NA
+T309R,not provided,missing,missing,missing,missing,missense,NA,NA
+T309S,not provided,missing,missing,missing,missing,missense,NA,NA
+T311A,not provided,missing,missing,missing,missing,missense,NA,NA
+T391I,not provided,missing,missing,missing,missing,missense,NA,NA
+V241G,not provided,missing,missing,missing,missing,missense,NA,NA
+V308D,not provided,missing,missing,missing,missing,missense,NA,NA
+V310D,not provided,missing,missing,missing,missing,missense,NA,NA
+V554A,not provided,missing,missing,missing,missing,missense,NA,NA
+W248C,not provided,missing,missing,missing,missing,missense,NA,NA
+W248F,not provided,missing,missing,missing,missing,missense,NA,NA
+W379S,not provided,missing,missing,missing,missing,missense,NA,NA
+Y278H,not provided,missing,missing,missing,missing,missense,NA,NA
+Y281C,not provided,missing,missing,missing,missing,missense,NA,NA
+G316R,not provided;Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+P320S,Pathogenic;Uncertain significance,plp,plp,plp,plp,missense,NA,NA
+Q367H,Conflicting classifications of pathogenicity;Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+S140R,Likely pathogenic;Uncertain significance,plp,plp,plp,plp,missense,NA,NA
+T312S,Likely pathogenic;Uncertain significance,plp,plp,plp,plp,missense,NA,NA
+V254L,not provided;Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+W305R,not provided;Pathogenic,plp,plp,plp,plp,missense,NA,NA
+F340L,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G168R,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G306R,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G325R,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G345R,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G568R,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Q107H,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R562S,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A178P,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+A178T,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A283P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A2G,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A302E,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A302V,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A341E,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+A341G,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A341V,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+A344E,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A344V,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+A370E,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A371E,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A371P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A371T,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+A525T,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+D202G,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+D202N,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+D242E,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+D242N,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+D242Y,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+D317A,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+D317G,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+D317N,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+E115G,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+E170K,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+E261D,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+E261K,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+E261L,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+E261Q,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+E284K,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+E596G,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+F279I,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+F339S,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G119R,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G119S,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G179A,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G179R,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G179S,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G186C,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G186D,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G186S,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G186V,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G229D,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G269D,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G269R,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G269S,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G269V,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G272D,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G314D,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G314R,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G314S,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G316A,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G316E,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G316W,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G325E,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G325W,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G345E,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G345V,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G568A,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+G589D,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+H258P,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+H258R,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+I227L,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+I235L,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+I235N,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+I274N,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+I567T,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+I588T,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+K362R,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+K527E,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+K557E,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+L114P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L156P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L203P,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+L233M,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L251P,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+L251Q,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L262P,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L262Q,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L266P,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L266Q,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L273F,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L273I,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L273P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L273R,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L303P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L342F,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L347F,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+L374H,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+M1K,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+M1L,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+M520K,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+M520R,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+M520T,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+N365K,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+P117L,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+P117S,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+P117T,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+P197S,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+P320H,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+P320L,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+P343A,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+P343S,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Q234P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R174C,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R174H,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R174L,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R174P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R190L,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R190P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R190Q,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R190W,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R231C,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R231H,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+R231L,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R231S,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+R243C,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R243H,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R243L,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R243P,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+R243S,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R259C,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R259G,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+R259H,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R259L,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R259P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R360G,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+R360W,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R366L,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R366P,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+R366Q,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R366W,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R380S,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R380W,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+R518G,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R539Q,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R539W,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R555C,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+R555H,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R555S,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R591C,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R591G,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R591H,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+R591L,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R591S,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R594L,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R594P,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+R594Q,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+S140G,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+S199A,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+S209P,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+S225L,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+S225W,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+S253F,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+S277L,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+S277W,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+S338F,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+S349W,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+S546L,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+S566F,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+S566Y,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+T169R,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+T224M,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+T265I,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+T309I,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+T312I,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+T322A,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+T322M,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+T322P,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+T322R,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+T587M,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+T587R,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+V141M,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+V173D,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+V205M,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+V241F,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+V254M,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+V280A,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+V280E,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+V310I,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+V524G,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+W176S,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+W248R,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+W304G,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+W304L,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+W304R,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+W304S,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+W305C,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+W305S,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+W392R,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y111C,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y111S,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y125C,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y125D,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y125N,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y184D,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y184H,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y184S,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y315C,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y315F,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y315H,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y315N,Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y315S,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y522S,Pathogenic/Likely pathogenic,plp,plp,plp,plp,missense,NA,NA
+Y545F,Pathogenic,plp,plp,plp,plp,missense,NA,NA
+G189R,not provided;Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G350R,not provided;Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F364L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F479L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G245R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H509Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+N483K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S95R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V307L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V599L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A10D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A10T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A128P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A128T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A128V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A149T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A150T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A194P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A194V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A208V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A223T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A23V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A283S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A283T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A283V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A287E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A287S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A287T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A287V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A28G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A2T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A2V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A300G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A300S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A329T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A329V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A336S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A341T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A352D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A352P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A378P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A378S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A378T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A384T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A399D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A399G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A399V,Uncertain significance,vus,vus,blb,blb,missense,NA,blb
+A3G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A3P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A41G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A46E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A46T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A486P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A486V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A512D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A532V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A58D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A58T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A590P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A607S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A607T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A62E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A636T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A65P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A65V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A72P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+A72T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+C136F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+C214W,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+C214Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+C331Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+C381W,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+C445S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+C642F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+C642R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+C642W,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D202V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D286E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D301Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D388H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D388N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D426H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D428H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D428N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D428Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D446G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D459E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D459Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D462N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D488E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D488H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D488N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D490G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D564G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D564N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D582H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D603E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D611G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D611N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D649E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D649G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D649N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D673E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D673H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D673N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D673V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D78A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+D78H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E115D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E11G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E11K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E146K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E170D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E170G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E284G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E290G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E290K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E385K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E385Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E42D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E435K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E450G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E450Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E473Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E487K,Uncertain significance,vus,vus,blb,blb,missense,NA,blb
+E494D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E494G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E508G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E543K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E558G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E558K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E578K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E596K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E651A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E651K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E663K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E674G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E674K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+E674V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F157C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F157L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F166L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F166V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F222S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F275L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F279C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F335C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F339V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F479Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F485S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F529L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F573L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+F653L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G119V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G154V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G186A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G189A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G219E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G229S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G229V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G22C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G22R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G252R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G252S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G252V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G292D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G297R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G297S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G297V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G29S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G29V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G306E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G434A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G434E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G44R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G44S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G460D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G460S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G493A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G493E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G548D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G568E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G57D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G584E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G584S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G621D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G622S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G626A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G626R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G626S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G626V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G628S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G629R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G629S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G629V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G635E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G635R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G643D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G646C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G671D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G671S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G675R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+G80A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H240Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H240R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H240Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H442D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H455Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H478N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H502P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H510P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H614L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H620D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+H637D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I132L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I198V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I200N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I200V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I201V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I227V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I235T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I257S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I263K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I263V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I268V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I313V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I337M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I346V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I375F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I375V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I394T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I443V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I500L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I500T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I500V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I514V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I556N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I567F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I567V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I574T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I574V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I588V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I609N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+I638T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K13R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K196Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K196T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K218E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K218R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K218T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K318N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K318T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K326E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K354R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K358T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K393E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K398R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K413R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K419N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K419R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K419T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K420R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K422E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K422R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K422T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K424N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K526N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K526Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K526R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K528R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K557R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K569R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+K598R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L131P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L137P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L156R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L175F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L175P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L187F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L203V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L239V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L250P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L262V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L273V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L282M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L282V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L30P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L353P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L374F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L374V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L471M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L471V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L472P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L491V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L496Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L552F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L552I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L559P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L572P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L572V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L606Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L608F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L608V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L613F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L613P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L617F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L619M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L619S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+L79F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M159L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M210I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M210T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M210V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M437R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M476T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M476V,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M480I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M480T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M520I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+M612I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+N112S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+N289D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+N365D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+N365S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+N386K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+N429D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+N429S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+N483S,Uncertain significance,vus,blb,blb,blb,missense,blb,blb
+N586S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+N593K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P197H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P197L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P21L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P35L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P35R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P387S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P408L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P408R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P410A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P441L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P441S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P447L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P448L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P448Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P45L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P45R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P469L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P469S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P477L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P477S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P499L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P499T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P59A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P61S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P61T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P625A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P630A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P630S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P630T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P631A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P631H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P631L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P631R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P63S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P63T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P641L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P64S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P660H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P660S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P672A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P67R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P70L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P70T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P73L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P73T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P7Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P81L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P83S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P84R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P84S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P89T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P8T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P99L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P99Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+P99R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q147L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q147R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q220H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q220K,Uncertain significance,vus,vus,blb,blb,missense,NA,blb
+Q234L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q234R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q260H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q321P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q357E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q357R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q361E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q376E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q376H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q376R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q521H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q530P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q544H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q544K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q544L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q547R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q565P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q604E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q604L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q615H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q615P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q615R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Q640L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R116H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R116L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R116P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R14G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R14L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R14S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R181C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R181H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R192C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R192L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R192P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R195G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R195P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R195Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R228W,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R24W,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R25P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R360K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R360M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R360T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R380G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R397Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R401P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R401Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R401W,Uncertain significance,vus,vus,blb,blb,missense,NA,blb
+R451W,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R481K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R507Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R511Q,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R511W,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R518P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R519C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R519L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R533G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R555L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R561K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R583G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R583S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R591P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R632K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R669S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R670K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R90C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R97P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R98H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R98P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+R9T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S143F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S143Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S217F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S253A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S27N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S27R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S298R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S330Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S349A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S349L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S389A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S389Y,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S402G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S402N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S402T,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S407L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S457F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S463C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S463G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S464P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S468G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S468I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S571L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S575F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S580G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S580N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S585N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S585R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S623G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S623I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S66C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S66F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S66L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S66Y,Uncertain significance,vus,vus,blb,blb,missense,NA,blb
+S676C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S77F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S92C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+S92P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T118P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T169M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T264S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T327N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T391P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T404I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T404S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T432I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T444K,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T444M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T444R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T470A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T470I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T482N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T498I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T501A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T513A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T513I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T513S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T610N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T624A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T624I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T624N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T639I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T658N,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+T666P,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V106D,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V110E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V110I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V124F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V129A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V129G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V129I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V133A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V133I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V162L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V162M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V164A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V165A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V165L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V165M,Uncertain significance,vus,vus,blb,blb,missense,NA,blb
+V172L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V185M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V206L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V212A,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V212F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V221M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V241I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V288M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V294M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V307E,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V307M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V319M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V324F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V324I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V324L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V416M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V458L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V474L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V516I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V541I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V554L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V554M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V595I,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V595L,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V648F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+V667M,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+W158C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+W15C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+W17G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+W188C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+W188R,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+W188S,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+W379G,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Y171H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Y267F,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Y382C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Y382H,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Y51C,Uncertain significance,vus,vus,vus,vus,missense,NA,NA
+Y662X,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,nonsense,NA,NA
+W188X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+W248X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+W304X,Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+W305X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+W323X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+W392X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Y171X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Y51X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+C214X,Pathogenic/Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+C34X,Pathogenic/Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+E261X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+E39X,Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+E42X,Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+E487X,Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+E494X,Pathogenic/Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+E508X,Pathogenic/Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+G245X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+K13X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+K32X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+K414X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+L101X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q107X,Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q220X,Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q234X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q244X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q260X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q321X,Pathogenic/Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q356X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q357X,Pathogenic/Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q359X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q361X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q367X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q376X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q505X,Pathogenic/Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q521X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q530X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q531X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Q601X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+R518X,Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+R594X,Pathogenic/Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+S225X,Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+S349X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+S373X,Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+S577X,Pathogenic/Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+W120X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+W158X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+W176X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+W17X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Y125X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Y278X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Y281X,Pathogenic/Likely pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Y461X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Y522X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+Y536X,Pathogenic,plp,plp,plp,NA,nonsense,NA,NA
+C642X,Uncertain significance,vus,vus,vus,NA,nonsense,NA,NA
+Q664X,Uncertain significance,vus,vus,vus,NA,nonsense,NA,NA
+A532A,Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,NA,synon,NA,NA
+G22G,Likely benign;Uncertain significance,blb,blb,blb,NA,synon,NA,NA
+I268I,Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,NA,synon,NA,NA
+L471L,Likely benign;Uncertain significance,blb,blb,blb,NA,synon,NA,NA
+L654L,Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,NA,synon,NA,NA
+P625P,Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,NA,synon,blb,blb
+R293R,Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,NA,synon,NA,blb
+S225S,Benign/Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,NA,synon,NA,blb
+T610T,Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,NA,synon,NA,NA
+V648V,Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,NA,synon,blb,blb
+V75V,Likely benign;Conflicting classifications of pathogenicity,blb,blb,blb,NA,synon,NA,blb
+A226A,Benign/Likely benign,blb,blb,blb,NA,synon,NA,NA
+A302A,Likely benign,blb,blb,blb,NA,synon,NA,blb
+A341A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A378A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A399A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A65A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A69A,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+G189G,Benign/Likely benign,blb,blb,blb,NA,synon,NA,NA
+G252G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G316G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G345G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G628G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G646G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I161I,Benign/Likely benign,blb,blb,blb,NA,synon,NA,NA
+L142L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L191L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L20L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L303L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L342L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L38L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L659L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P35P,Likely benign,blb,blb,blb,NA,synon,blb,blb
+P412P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P441P,Likely benign,blb,blb,blb,NA,synon,NA,blb
+P45P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P477P,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+P56P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P641P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P74P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P7P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P84P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R366R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R452R,Benign/Likely benign,blb,blb,blb,NA,synon,NA,NA
+R98R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S177S,Likely benign,blb,blb,blb,NA,synon,NA,blb
+S199S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S349S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S546S,Benign,blb,blb,blb,NA,synon,blb,blb
+T118T,Likely benign,blb,blb,blb,NA,synon,NA,blb
+T155T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T444T,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+T666T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V173V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V212V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V324V,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+V416V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V440V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A102A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A10A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A149A,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+A208A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A223A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A287A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A329A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A336A,Likely benign,blb,blb,blb,NA,synon,blb,blb
+A370A,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+A371A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A3A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A41A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A46A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A486A,Likely benign,blb,blb,blb,NA,synon,NA,blb
+A49A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A55A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A58A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A590A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A62A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A636A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A68A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A71A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A72A,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A76A,Likely benign,blb,blb,blb,NA,synon,NA,blb
+C136C,Likely benign,blb,blb,blb,NA,synon,NA,NA
+C214C,Benign/Likely benign,blb,blb,blb,NA,synon,NA,NA
+C445C,Likely benign,blb,blb,blb,NA,synon,NA,NA
+C642C,Benign/Likely benign,blb,blb,blb,NA,synon,NA,blb
+D202D,Likely benign,blb,blb,blb,NA,synon,NA,NA
+D286D,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+D388D,Likely benign,blb,blb,blb,NA,synon,NA,NA
+D428D,Likely benign,blb,blb,blb,NA,synon,NA,NA
+D459D,Likely benign,blb,blb,blb,NA,synon,NA,NA
+D462D,Likely benign,blb,blb,blb,NA,synon,NA,NA
+D540D,Likely benign,blb,blb,blb,NA,synon,NA,NA
+D582D,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+E115E,Likely benign,blb,blb,blb,NA,synon,NA,NA
+E284E,Likely benign,blb,blb,blb,NA,synon,NA,NA
+E290E,Likely benign,blb,blb,blb,NA,synon,NA,NA
+E295E,Likely benign,blb,blb,blb,NA,synon,NA,NA
+E450E,Likely benign,blb,blb,blb,NA,synon,NA,NA
+E558E,Likely benign,blb,blb,blb,NA,synon,NA,NA
+E663E,Likely benign,blb,blb,blb,NA,synon,NA,NA
+E674E,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F113F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F127F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F139F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F166F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F167F,Likely benign,blb,blb,blb,NA,synon,blb,blb
+F222F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F279F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F296F,Benign/Likely benign,blb,blb,blb,NA,synon,NA,NA
+F332F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F339F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F456F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F485F,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+F529F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+F573F,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G108G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G119G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G154G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G168G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G219G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G229G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G246G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G297G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G306G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G325G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G430G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G43G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G48G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G57G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G589G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G629G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G634G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G635G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G645G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G671G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+G80G,Likely benign,blb,blb,blb,NA,synon,NA,NA
+H105H,Likely benign,blb,blb,blb,NA,synon,NA,NA
+H126H,Likely benign,blb,blb,blb,NA,synon,NA,NA
+H240H,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+H258H,Likely benign,blb,blb,blb,NA,synon,NA,NA
+H403H,Likely benign,blb,blb,blb,NA,synon,NA,NA
+H442H,Likely benign,blb,blb,blb,NA,synon,NA,NA
+H620H,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+H637H,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I132I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I145I,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+I204I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I230I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I235I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I313I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I328I,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+I337I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I368I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I396I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I500I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I574I,Benign,blb,blb,blb,NA,synon,NA,NA
+I588I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+I609I,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K121K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K196K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K285K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K318K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K33K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K419K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K420K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K421K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K422K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K424K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K427K,Likely benign,blb,blb,blb,NA,synon,NA,blb
+K526K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K569K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+K579K,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L101L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L114L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L134L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L137L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L156L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L175L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L203L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L213L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L236L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L282L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L347L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L405L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L406L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L438L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L453L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L489L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L506L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L552L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L563L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L572L,Benign/Likely benign,blb,blb,blb,NA,synon,NA,NA
+L592L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L606L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L613L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L616L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L617L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L619L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L652L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+L665L,Likely benign,blb,blb,blb,NA,synon,NA,NA
+N289N,Likely benign,blb,blb,blb,NA,synon,NA,NA
+N365N,Likely benign,blb,blb,blb,NA,synon,NA,NA
+N386N,Likely benign,blb,blb,blb,NA,synon,NA,NA
+N429N,Likely benign,blb,blb,blb,NA,synon,NA,NA
+N483N,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P117P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P369P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P387P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P400P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P408P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P447P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P499P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P53P,Likely benign,blb,blb,blb,NA,synon,blb,blb
+P570P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P59P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P61P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P631P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P63P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P64P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P655P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P672P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P70P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P83P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P89P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+P99P,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Q234Q,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Q367Q,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Q521Q,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Q544Q,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R116R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R12R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R190R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R192R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R228R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R243R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R259R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R380R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R481R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R507R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R511R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R519R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R533R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R583R,Benign/Likely benign,blb,blb,blb,NA,synon,NA,NA
+R594R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R632R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R669R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+R670R,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S140S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S182S,Benign,blb,blb,blb,NA,synon,NA,NA
+S276S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S277S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S27S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S291S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S333S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S338S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S373S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S37S,Likely benign,blb,blb,blb,NA,synon,NA,blb
+S407S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S409S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S415S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S475S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S504S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S571S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S575S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S5S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S618S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S627S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S647S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S656S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S676S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+S77S,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T104T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T169T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T224T,Likely benign,blb,blb,blb,NA,synon,NA,blb
+T247T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T311T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T312T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T322T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T327T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T377T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T391T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T404T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T439T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T470T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T482T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T498T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T513T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T587T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T624T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+T96T,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V164V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V165V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V205V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V206V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V215V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V221V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V241V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V280V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V288V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V310V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V319V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V355V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V458V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V516V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V541V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V576V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V595V,Likely benign,blb,blb,blb,NA,synon,NA,NA
+V85V,Likely benign,blb,blb,blb,NA,synon,NA,blb
+X677X,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Y111Y,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Y171Y,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+Y184Y,Benign/Likely benign,blb,blb,blb,NA,synon,NA,NA
+Y278Y,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Y281Y,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Y299Y,Benign/Likely benign,blb,blb,blb,NA,synon,NA,NA
+Y382Y,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Y395Y,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Y461Y,Likely benign,blb,blb,blb,NA,synon,NA,NA
+Y536Y,Benign/Likely benign,blb,blb,blb,NA,synon,blb,blb
+Y662Y,Benign,blb,blb,blb,NA,synon,blb,blb
+Y94Y,Likely benign,blb,blb,blb,NA,synon,NA,NA
+A178A,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+A300A,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+A384A,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+D537D,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+E492E,Conflicting classifications of pathogenicity,conflicting,conflicting,blb,NA,synon,NA,blb
+F364F,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+G216G,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+H363H,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+I201I,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+I54I,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+L271L,Conflicting classifications of pathogenicity,conflicting,blb,blb,NA,synon,blb,blb
+L602L,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+P320P,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+Q505Q,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+R555R,Conflicting classifications of pathogenicity,conflicting,conflicting,conflicting,NA,synon,NA,NA
+S253S,Conflicting classifications of pathogenicity,conflicting,conflicting,blb,NA,synon,NA,blb
+T153T,Conflicting classifications of pathogenicity,conflicting,blb,blb,NA,synon,blb,blb
+T600T,Conflicting classifications of pathogenicity,conflicting,blb,blb,NA,synon,blb,blb
+A344A,Likely pathogenic,plp,plp,plp,NA,synon,NA,NA
+V307V,Likely pathogenic,plp,plp,plp,NA,synon,NA,NA
+H502H,Uncertain significance,vus,vus,vus,NA,synon,NA,NA
+K598K,Uncertain significance,vus,vus,vus,NA,synon,NA,NA
+L353L,Uncertain significance,vus,vus,vus,NA,synon,NA,NA
+Q530Q,Uncertain significance,vus,vus,vus,NA,synon,NA,NA
+S577S,Uncertain significance,vus,vus,vus,NA,synon,NA,NA
+V185V,Uncertain significance,vus,vus,vus,NA,synon,NA,NA
+V417V,Uncertain significance,vus,vus,vus,NA,synon,NA,NA
+V554V,Uncertain significance,vus,vus,vus,NA,synon,NA,NA
