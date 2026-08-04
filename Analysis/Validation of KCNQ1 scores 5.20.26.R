@@ -16,16 +16,10 @@ library(scales)
 library(tidyverse)
 library(tidyr)
 
-# If you are on Andrew's computer:
-workingDir='~/Dropbox/Andrew-Lorena/KCNQ1 Analysis/'
-
-# If you are on Lorena's HOME computer:
-workingDir='C:/Users/marga/Dropbox/Andrew-Lorena/KCNQ1 Analysis/'
-
-# If you are on Lorena's LAB computer:
-#workingDir='c:/Users/harveml1/Dropbox/Andrew-Lorena/KCNQ1 Analysis/'
-
-# Otherwise, set the working directory as needed.
+# Working directory: the folder containing "Current scores" and "Validation".
+# Defaults to the current directory, so starting R in Analysis/ needs no edits.
+# Override with the KCNQ1_ANALYSIS_DIR environment variable.
+workingDir=Sys.getenv('KCNQ1_ANALYSIS_DIR', unset='.')
 
 setwd(workingDir)
 
@@ -357,8 +351,8 @@ plotPredictorVsMAVE=function(predictor,pdfName,tf4d_control,tf4c){
        ylim = c(0,1),
        xlim = c(-0.5,3),
        main = paste("Function Score vs",predictor))
-  region_levels <- levels(tf4d_control$region2)   # Get the unique levels of region2
-  for (region in unique(region_colors)) {
+  region_levels <- unique(tf4d_control$region2)   # Get the unique levels of region2
+  for (region in region_levels) {
     subset_data <- tf4d[tf4d$region2 == region, ]
     plot(subset_data$function_score, subset_data[,predictor], 
          pch = '.', 
@@ -703,9 +697,10 @@ names(tf4)
 tf4=tf4[,c(1:3,51,4:50)]
 
 # Add in SpliceAI scores
-#spliceai=read.csv('Validation/kcnq1_spliceai_output3.csv',header=FALSE)
-# Note: this is a big file so we moved it out of the dropbox
-spliceai=read.csv('~/Desktop/GlazerLab/Ideas/DMS/DMS KCNQ1/SpliceAI/kcnq1_spliceai_output3.csv',header=FALSE)
+# Note: this is a big file (1,212,354 rows) so it is not kept in the repository.
+# Place it at the path below, or point at it with KCNQ1_SPLICEAI_FILE.
+spliceaiFile=Sys.getenv('KCNQ1_SPLICEAI_FILE', unset='Validation/kcnq1_spliceai_output3.csv')
+spliceai=read.csv(spliceaiFile,header=FALSE)
 spliceai=spliceai[,c(1,2,4,5,9,10,11,12,17)]
 names(spliceai)=c('chr','genomicPos','ref','alt','spliceai_accLoss','spliceai_donorLoss','spliceai_accGain','spliceai_donorGain','spliceai_merged')
 head(spliceai)
@@ -1784,7 +1779,7 @@ summary(as.factor(tf5_LOT$region3))
 #194            249 
 
 # Dominant Negative Variants | Het Trafficking Score | Early nonsense, Missense Cytosolic, Missense Transmembrane
-pdf("validation/DN_HetTraffickingScore_ByRegion_Cytosolic_vs_Transmembrane_9.11.25.pdf")
+pdf("Validation/DN_HetTraffickingScore_ByRegion_Cytosolic_vs_Transmembrane_9.11.25.pdf")
 ggplot(tf5_LOT, aes(x = region2b, y = het_trafficking_score, fill = region2b)) +
   geom_violin(trim = TRUE, alpha = 0.7) + # Violin plot with color mapped to region
   labs(
